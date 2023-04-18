@@ -8,7 +8,7 @@ return {
     signcolumn = "auto", -- sets vim.opt.signcolumn to auto
     wrap = false, -- sets vim.opt.wrap
     encoding = "utf-8",
-    noswapfile = true,
+    -- noswapfile = true,
     tabstop = 4,
     softtabstop = 4,
     shiftwidth = 4,
