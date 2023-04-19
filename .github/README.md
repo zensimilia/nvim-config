@@ -23,6 +23,8 @@ git clone --depth=1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
 git clone https://github.com/zensimilia/nvim-config ~/.config/nvim/lua/user
 ```
 
+Alternative recomended config destination folder is `.config/astronvim/lua/user` for easily reinstallation.
+
 #### Start Neovim
 
 ```shell
