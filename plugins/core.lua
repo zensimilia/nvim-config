@@ -1,6 +1,13 @@
 return {
   -- customize alpha options
   { "goolord/alpha-nvim", enabled = false },
+  {
+    "nvim-neo-tree/neo-tree.nvim",
+    opts = function(_, opts)
+      opts.default_source = "filesystem"
+      return opts
+    end,
+  },
   -- You can disable default plugins as follows:
   -- { "max397574/better-escape.nvim", enabled = false },
   --
