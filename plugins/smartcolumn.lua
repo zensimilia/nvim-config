@@ -1,6 +1,6 @@
 return {
     "m4xshen/smartcolumn.nvim",
-    enabled = true,
+    event = "BufEnter",
     lazy = false,
     opts = {
         colorcolumn = "80",
