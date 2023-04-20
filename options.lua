@@ -14,8 +14,8 @@ return {
     shiftwidth = 4,
     autoindent = true,
     fileformat = "unix",
-    -- colorcolumn = "80",
     list = true,
+    showtabline = 0,
   },
   g = {
     mapleader = " ",                 -- sets vim.g.mapleader
