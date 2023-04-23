@@ -13,6 +13,7 @@ return {
     softtabstop = 4,
     shiftwidth = 4,
     autoindent = true,
+    autochdir = true,
     fileformat = "unix",
     list = true,
     showtabline = 0,
