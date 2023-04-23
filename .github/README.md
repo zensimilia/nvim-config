@@ -30,3 +30,8 @@ Alternative recomended config destination folder is `.config/astronvim/lua/user`
 ```shell
 nvim
 ```
+
+## ⚡ Requirements
+
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - live grep telescope search (`<leader>fw`)
+- [lazygit](https://github.com/jesseduffield/lazygit) - git ui toggle terminal (`<leader>tl` or `<leader>gg`)
